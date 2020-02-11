@@ -1,6 +1,6 @@
 # Collection of miscellaneous teaching, workshop or tutorial materials
 
-Open CNP retreat workshop notebook: [![Open CNP workshop notebook](https://colab.research.google.com/assets/colab-badge.svg)](Workshop_CNP.ipynb)
+Open CNP retreat workshop notebook: [![Open CNP workshop notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/AlexEMG/Tutorials/blob/master/Workshop_CNP.ipynb)
 
 
 ## Materials for guest lecture on neural networks (in NeuralNetworks_at_HMS_guestlecture folder):
